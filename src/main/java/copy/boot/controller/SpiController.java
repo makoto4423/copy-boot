@@ -1,4 +1,4 @@
-package boot.controller;
+package copy.boot.controller;
 
 import copy.boot.bean.Fruit;
 import org.springframework.web.bind.annotation.RequestMapping;
